@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  PerformanceTracker
+
+  Created by Sergey on 25.10.2025.
+  
+*/
+
+"performance_list_title" = "Výkony";
+"performance_list_empty" = "Žádné záznamy";
+
+"filter_all" = "Vše";
+"filter_local" = "Lokálně";
+"filter_remote" = "Backend";
+
+"add_performance_title" = "Přidat výkon";
+"title_placeholder" = "Název";
+"location_placeholder" = "Místo";
+"duration_placeholder" = "Délka (minuty)";
+"save_button" = "Uložit";
+"cancel_button" = "Zrušit";
+"saving_message" = "Ukládám...";
+
+"section_general_info" = "Základní informace";
+"section_storage" = "Úložiště";
+
+"storage_local" = "Lokálně";
+"storage_remote" = "Backend";
+
+"error_empty_title" = "Zadejte název.";
+"error_empty_location" = "Zadejte místo.";
+"error_invalid_duration" = "Zadejte platnou délku.";

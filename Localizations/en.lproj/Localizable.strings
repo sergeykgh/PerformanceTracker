@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  PerformanceTracker
+
+  Created by Sergey on 25.10.2025.
+  
+*/
+
+"performance_list_title" = "Performances";
+"performance_list_empty" = "No Records";
+
+"filter_all" = "All";
+"filter_local" = "Local";
+"filter_remote" = "Backend";
+
+"add_performance_title" = "Add Performance";
+"title_placeholder" = "Title";
+"location_placeholder" = "Location";
+"duration_placeholder" = "Duration (minutes)";
+"save_button" = "Save";
+"cancel_button" = "Cancel";
+"saving_message" = "Saving...";
+
+"section_general_info" = "General Information";
+"section_storage" = "Storage";
+
+"storage_local" = "Local";
+"storage_remote" = "Backend";
+
+"error_empty_title" = "Please enter a title.";
+"error_empty_location" = "Please enter a location.";
+"error_invalid_duration" = "Please enter a valid duration.";
